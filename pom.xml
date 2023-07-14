@@ -52,7 +52,7 @@
 
         <!-- For compilation -->
         <!-- Keycloak 22 is not released officially. You will have build the Keycloak locally and install it in local maven repository -->
-        <version.keycloak>999.0.0-SNAPSHOT</version.keycloak>
+        <version.keycloak>22.0.0</version.keycloak>
         <!-- Using admin client from 21.1.1 as its not packaged in 999.0.0-SNAPSHOT -->
         <version.keycloak.admin.client>21.1.1</version.keycloak.admin.client>
 
